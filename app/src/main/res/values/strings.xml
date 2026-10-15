@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CapCutClone</string>
+    <string name="str_ai">AI</string>
+    <string name="trim">Trim</string>
+    <string name="split">Split</string>
+    <string name="str_text">Text</string>
+    <string name="str_audio">Audio</string>
+    <string name="str_filters">Filters</string>
+</resources>
